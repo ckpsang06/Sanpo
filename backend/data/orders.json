@@ -1,0 +1,66 @@
+[
+  {
+    "id": "ORD-12345",
+    "customer": {
+      "name": "Nguyễn Văn Demo",
+      "phone": "0987654321",
+      "address": "123 Đường Sanpo, TP.HCM"
+    },
+    "items": [
+      {
+        "productId": "p1",
+        "quantity": 1,
+        "price": 250000
+      }
+    ],
+    "totalAmount": 250000,
+    "status": "Đang giao hàng",
+    "createdAt": "2026-04-10T10:00:00Z"
+  },
+  {
+    "id": "ORD-175054",
+    "customer": {
+      "name": "sang",
+      "phone": "0123058200",
+      "address": "nghệ an"
+    },
+    "items": [
+      {
+        "id": "p1",
+        "name": "Áo Thun Sanpo Cơ Bản",
+        "description": "Áo thun 100% cotton thoáng mát. Phù hợp sử dụng hàng ngày.",
+        "price": 250000,
+        "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=600&h=600&fit=crop",
+        "category": "Áo",
+        "stock": 50,
+        "quantity": 1
+      }
+    ],
+    "totalAmount": 250000,
+    "status": "Đang xử lý",
+    "createdAt": "2026-04-10T06:39:35.054Z"
+  },
+  {
+    "id": "ORD-276552",
+    "customer": {
+      "name": "sang",
+      "phone": "0123058200",
+      "address": "nn"
+    },
+    "items": [
+      {
+        "id": "p4",
+        "name": "Giày Sneaker Thời Trang Sanpo",
+        "description": "Giày chạy bộ êm ái, đế viền xanh dương trẻ trung.",
+        "price": 850000,
+        "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=600&h=600&fit=crop",
+        "category": "Giày",
+        "stock": 15,
+        "quantity": 1
+      }
+    ],
+    "totalAmount": 850000,
+    "status": "Đang xử lý",
+    "createdAt": "2026-04-10T06:41:16.552Z"
+  }
+]

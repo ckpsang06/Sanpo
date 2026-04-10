@@ -1,0 +1,32 @@
+[
+  {
+    "id": "r1",
+    "productId": "p1",
+    "userName": "Trần Thị B",
+    "rating": 5,
+    "comment": "Áo mặc rất mát, chất lượng chuẩn xịn. Ủng hộ shop xanh dương!"
+  },
+  {
+    "id": "r2",
+    "productId": "p2",
+    "userName": "Lê Văn C",
+    "rating": 4,
+    "comment": "Quần đẹp, nhưng ship hơi lâu xíu (chắc do bên vận chuyển)."
+  },
+  {
+    "id": "r1775803131302",
+    "productId": "p1",
+    "userName": "sang",
+    "rating": 5,
+    "comment": "mát",
+    "createdAt": "2026-04-10T06:38:51.302Z"
+  },
+  {
+    "id": "r1775803223190",
+    "productId": "p4",
+    "userName": "sang",
+    "rating": 5,
+    "comment": "mát\n",
+    "createdAt": "2026-04-10T06:40:23.190Z"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "p1",
+    "name": "Áo Thun Sanpo Cơ Bản",
+    "description": "Áo thun 100% cotton thoáng mát. Phù hợp sử dụng hàng ngày.",
+    "price": 250000,
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=600&h=600&fit=crop",
+    "category": "Áo",
+    "stock": 50
+  },
+  {
+    "id": "p2",
+    "name": "Quần Jeans Nam Xanh Dương Classic",
+    "description": "Quần jeans form chuẩn, tông màu xanh dương hiện đại. Co giãn tốt.",
+    "price": 450000,
+    "image": "https://images.unsplash.com/photo-1542272604-787c3835535d?w=600&h=600&fit=crop",
+    "category": "Quần",
+    "stock": 30
+  },
+  {
+    "id": "p3",
+    "name": "Balo Laptop Sanpo Blue 15.6 inch",
+    "description": "Balo cao cấp, chống nước, tông màu xanh đậm thanh lịch.",
+    "price": 600000,
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=600&h=600&fit=crop",
+    "category": "Phụ kiện",
+    "stock": 20
+  },
+  {
+    "id": "p4",
+    "name": "Giày Sneaker Thời Trang Sanpo",
+    "description": "Giày chạy bộ êm ái, đế viền xanh dương trẻ trung.",
+    "price": 850000,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=600&h=600&fit=crop",
+    "category": "Giày",
+    "stock": 15
+  }
+]

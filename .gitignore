@@ -1,0 +1,9 @@
+# Chặn thư mục node_modules ở mọi cấp độ thư mục
+node_modules/
+**/node_modules/
+
+# Bỏ qua các file cấu hình môi trường chứa mật khẩu/khóa bảo mật
+.env
+
+# Bỏ qua file log của npm
+npm-debug.log*
