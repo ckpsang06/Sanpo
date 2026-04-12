@@ -32,3 +32,5 @@ function App() {
 }
 
 export default App;
+
+// Kiem thu ket noi Jira va GitHub thanh cong.
